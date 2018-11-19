@@ -1,3 +1,9 @@
+
+#Note about what is to follow:
+#Trustpilot is a website for writing reviews about different websites. In this scraping exercise, we are going to scrape user 
+#ratings/reviews for Spotify. For this purpose, we will use Rvest library in R.
+
+
 #Loading the necessary libraries
 
 # General purpose data wrangling
